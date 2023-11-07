@@ -1,11 +1,5 @@
 ## Human readable writing:
 - https://hackmd.io/@nicholaspai
-- https://medium.com/@nickpai
-- https://mirror.xyz/picholas.eth
-
-## Personas:
-- https://twitter.com/mountainwaterpi
-- https://www.linkedin.com/in/nick-p-6968511a1/
 
 <!--
 **nicholaspai/nicholaspai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
