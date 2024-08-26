@@ -1,12 +1,11 @@
-## I authored ERC7683, a standard for cross-chain value transfer
+## whoami
+- Smart contract engineer at UMA + Across Protocol
+- I co-authored [ERC7683](https://www.erc7683.org/), a standard for cross-chain value transfer
 
-- [ERC7683](https://www.erc7683.org/)
-
-## Human readable writing:
+## blog
 - https://hackmd.io/@nicholaspai
 
-## Talks
-
+## talks
 - [EthDenver 2024: How Intents solve Interoperability](https://www.youtube.com/watch?v=S3WV_eBF45w)
 - [EthCC 2024: Bridges are Shared Sequencers](https://ethcc.io/archive/Bridges-are-Shared-Sequencers)
 
