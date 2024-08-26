@@ -5,6 +5,11 @@
 ## Human readable writing:
 - https://hackmd.io/@nicholaspai
 
+## Talks
+
+- [EthDenver 2024: How Intents solve Interoperability](https://www.youtube.com/watch?v=S3WV_eBF45w)
+- [EthCC 2024: Bridges are Shared Sequencers](https://ethcc.io/archive/Bridges-are-Shared-Sequencers)
+
 <!--
 **nicholaspai/nicholaspai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
