@@ -8,6 +8,7 @@
 ## talks
 - [EthDenver 2024: How Intents solve Interoperability](https://www.youtube.com/watch?v=S3WV_eBF45w)
 - [EthCC 2024: Bridges are Shared Sequencers](https://ethcc.io/archive/Bridges-are-Shared-Sequencers)
+- [Archetype Intent's Research Day Q4 2024](https://x.com/mountainwaterpi/status/1853520379530383640)
 
 <!--
 **nicholaspai/nicholaspai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
